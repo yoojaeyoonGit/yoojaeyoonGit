@@ -1,6 +1,6 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=header&text=jaeyoon%20GGGit&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20JaeyoonGit%20&#129299;&fontSize=40&fadeIn&fontAlignY=36&fontColor=ffffff)
 
+### Hi there 👋
 <!--
 **yoojaeyoonGit/yoojaeyoonGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
