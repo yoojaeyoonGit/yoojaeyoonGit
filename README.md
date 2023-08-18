@@ -4,7 +4,7 @@
 
 
 
-<h2 style="text-align: center"> tech stack </h2>
+<h2 style="text-align: center;"> tech stack </h2>
 <p align="center">
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="71" height="71" />
