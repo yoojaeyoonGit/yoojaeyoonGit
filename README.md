@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hello%20JaeyoonGit%20&#129299;&fontSize=40&fadeIn&fontAlignY=36&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=06FFFF&height=180&section=header&text=Hello%20JaeyoonGit%20&#129299;&fontSize=40&fadeIn&fontAlignY=36&fontColor=FFFFFF)
 
 <h3 align="center">  개발자 시켜줘. 🔨 </h3>
 <br>
