@@ -2,12 +2,16 @@
 
 ### Hi there 👋
 
+
+
+## tech stack
 <div>
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="71" height="71" />
 </div>
+
 <div>
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="71" height="71" />
