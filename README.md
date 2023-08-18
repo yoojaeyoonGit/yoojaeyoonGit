@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=capsule%20render&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=header&text=jaeyoon GGGit&fontSize=70)
 
 <!--
 **yoojaeyoonGit/yoojaeyoonGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
