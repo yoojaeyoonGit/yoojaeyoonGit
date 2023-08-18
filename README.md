@@ -9,9 +9,7 @@
 ### Framwork
 <p align="center">
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="71" height="71" />
-<img src="![springboot (1)](https://github.com/yoojaeyoonGit/yoojaeyoonGit/assets/110767749/341dc471-a491-4e2f-9733-fa7083d801f6)" width="71" height="71"/>
-  
-![springboot (1)](https://github.com/yoojaeyoonGit/yoojaeyoonGit/assets/110767749/419f30f5-8f1b-47d2-8956-bc22b872b6a9)
+<img src="https://github.com/yoojaeyoonGit/yoojaeyoonGit/assets/110767749/341dc471-a491-4e2f-9733-fa7083d801f6" width="71" height="71"/>
 
 
 ### Database
