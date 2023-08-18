@@ -8,16 +8,21 @@
 <br>
 
 <h3 align="center"> Framwork </h3>
+<br>
+
 <p align="center">
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://github.com/yoojaeyoonGit/yoojaeyoonGit/assets/110767749/341dc471-a491-4e2f-9733-fa7083d801f6" width="80" height="80"/>
-
+<br>
 
 <h3 align="center"> Database </h3>
+<br>
+
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="71" height="71" />
 </p>
+<br>
 
 <p align="center">
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="71" height="71" />
