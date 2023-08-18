@@ -23,6 +23,10 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="71" height="71" />
 </p>
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=66CCFF)
+
 <!--
 
 <!--
