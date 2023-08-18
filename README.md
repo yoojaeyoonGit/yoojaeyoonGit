@@ -16,6 +16,7 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" height="71" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="71" height="71" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="71" height="71" />
+  <img src="https://github.com/yoojaeyoonGit/yoojaeyoonGit/assets/110767749/2f4f305d-2753-4c9d-9d75-1f7a95d22128" width="80" height="80"/>
 </p>
 <p align="center">
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="71" height="71" />
