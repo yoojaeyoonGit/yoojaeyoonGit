@@ -5,20 +5,20 @@
 
 
 ## tech stack
-<p align: center">
+<p align="center">
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="71" height="71" />
 </p>
 
-<div style="text-align: center">
+<p align="center">
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" height="71" />
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="71" height="71" />
-</div>
+</p>
 <!--
 
 <!--
