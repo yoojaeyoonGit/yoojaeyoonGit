@@ -25,6 +25,9 @@
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="71" height="71" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoojaeyoonGit&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=yoojaeyoonGit&show_icons=true">
+
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=66CCFF)
 
