@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoojaeyoonGit">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoojaeyoonGit&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=yoojaeyoonGit&show_icons=true">
 </p>
 
