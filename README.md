@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=66CCFF&height=180&section=header&text=Hello%20JaeyoonGit%20&#129299;&fontSize=40&fadeIn&fontAlignY=36&fontColor=FFFFFF)
 
-<h3 align="center"> 시켜줘. 명예 개발자&#x2615  </h3>
+<h3 align="center"> 시켜줘. 명예 개발자 &#x2615  </h3>
 <br>
 
 
