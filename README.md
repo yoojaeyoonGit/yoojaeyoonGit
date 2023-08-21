@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=66CCFF&height=180&section=header&text=Hello%20JaeyoonGit%20&#129299;&fontSize=40&fadeIn&fontAlignY=36&fontColor=FFFFFF)
 
 <h3 align="center"> 
-  I want to be a Backend Developer <br>
-  시켜줘. 명예 개발자 &#x2615  </h3>
+  시켜줘. 명예 개발자 &#x2615
+  <br>
+  I want to be a Backend Developer  
+</h3>
 <br>
 
 
